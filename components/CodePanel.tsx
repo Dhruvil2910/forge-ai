@@ -30,6 +30,9 @@ import type { FileData, StatusStep } from "@/types/workspace";
 
 // ─── Placeholder ──────────────────────────────────────────────────────────────
 
+
+// how are  are you
+
 const PLACEHOLDER_FILES = {
   "/App.js": {
     code: `export default function App() {
